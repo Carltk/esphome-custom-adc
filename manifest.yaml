@@ -1,4 +1,4 @@
 name: Custom ADC
 description: Custom ADC sensor for ESP32-C6
-url: https://github.com/yourusername/esphome-custom-adc
+url: https://github.com/carltk/esphome-custom-adc
 dependencies: []
